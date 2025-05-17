@@ -270,6 +270,11 @@ body {
     flex-direction: column;
   }
 
+  #skills-logo {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
   #projects {
     flex-direction: column;
     justify-content: center;
